@@ -5,3 +5,4 @@ __pycache__/
 *.log
 hashes.txt
 john_ready.txt
+wordlists/*.txt
