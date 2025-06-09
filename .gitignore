@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pot
+*.txt
+*.log
+hashes.txt
+john_ready.txt
