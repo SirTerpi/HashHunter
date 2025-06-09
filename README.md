@@ -39,3 +39,13 @@ cd lib
 git clone https://github.com/fortra/impacket.git
 cd impacket
 pip install .
+
+# 🔡 Wordlists
+
+To crack hashes, you’ll need to download your own wordlists. We recommend:
+
+- [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) (common)
+- [SecLists](https://github.com/danielmiessler/SecLists) (comprehensive)
+- [10-million-password-list](https://github.com/danielmiessler/SecLists/blob/master/Passwords/10_million_password_list_top_100000.txt)
+
+Place downloaded files in the `wordlists/` folder.
