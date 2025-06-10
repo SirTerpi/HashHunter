@@ -23,7 +23,7 @@ Before using HashHunter, make sure the following are installed in your Python en
 ### 🐍 Python Packages:
 - Python 3.8+  
 - [Impacket](https://github.com/fortra/impacket) (cloned and installed locally)
-- `john` (John the Ripper must be installed on your system)(Note that default versions of john pre-installed on linux may not have NTLM formatting available)
+- `john` (John the Ripper must be installed on your system)(Note that default versions of john pre-installed on some linux distros may not have NTLM formatting available)
 
 ### ✅ Setup (from WSL or Linux/macOS)
 
